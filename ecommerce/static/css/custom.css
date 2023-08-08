@@ -1,0 +1,25 @@
+body{
+margin: 0;
+padding: 0;
+background-color:#778B79;
+font-family: 'Caveat', cursive;
+font-family: 'Changa', sans-serif;
+font-family: 'Great Vibes', cursive;
+font-family: 'Roboto', sans-serif;
+}
+
+.icon_size
+{
+font-size:10px;
+}
+
+.footer {
+height:35px;
+width:100%;
+background-color:white;
+text-align:center;
+position:fixed;
+bottom:0;
+left:0;
+}
+/* Change the color of the Font Awesome icon */
